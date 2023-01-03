@@ -1,4 +1,4 @@
-#201911202 류기범 PlayBaseball ㅇ
+#201911202 류기범 PlayBaseball
 
 import random
 
