@@ -1,4 +1,4 @@
-#Tic Tac Toe
+#Tic Tac Toe 게임
 
 board = [[""for x in range(3)]for y in range(3)] # 3x3의 board 이중배열을 만든다
 i = 1
